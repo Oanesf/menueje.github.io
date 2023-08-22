@@ -226,7 +226,7 @@ body{
     background: var(--bckg-contmenu);
     border-radius: 20px;
     box-shadow: 0 7px 20px rgba(0,0,0,0.15);
-    transition: 0.5s;
+    transition: 0.3s;
 }
 
 .card:hover{
@@ -244,7 +244,7 @@ body{
     border-radius: 20px;
     box-shadow: 0 7px 7px rgba(0,0,0,0.35);
     overflow: hidden;
-    transition: 0.5s;
+    transition: 0.3s;
 }
 .card:hover .imgBx {
     width: 72vw;
@@ -277,7 +277,7 @@ body{
 
     text-align: center;
     width: 100%;
-    transition: 0.5s;
+    transition: 0.3s;
     transform: translateY(67px);
 }
 
