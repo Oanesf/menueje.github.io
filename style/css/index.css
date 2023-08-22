@@ -300,6 +300,23 @@ body{
 
 }
 
+.card .content .details h3{
+    font-size: 1.1em;
+    font-weight: 600;
+    color: var(--clr-cont-det);
+    line-height: 1.6em; 
+}
+
+
+.card .content .details h3 span{
+    font-size: 0.75em;
+    font-weight: 500;
+    opacity: 0.8;
+    color: var(--clr-cont-det-span);
+
+}
+
+
 
 .card .content .details .data{
     display: flex;
