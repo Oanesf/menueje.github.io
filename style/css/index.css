@@ -433,13 +433,26 @@ body{
 
     .card{
         width: 35vw;
+	transition: 0.5s;
+
 
     }
+    
+    .imgBx{
+
+        transition: 0.5s;
+    }
+	
+    .card .content .details{
+        transition: 0.5s;
+    }
+	
     
     .card:hover .imgBx {
         width: 32vw;
         height: 180px;  
     }
+
     
     footer .container{
     justify-content: flex-end;
